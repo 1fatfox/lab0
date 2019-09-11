@@ -22,6 +22,5 @@ ul#menu {
 }
 
 ul#menu li {
-  float: left;
   display: inline;
 }
