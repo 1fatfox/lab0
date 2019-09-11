@@ -5,8 +5,12 @@ h1 {
     color: #addde6;
 }
 
-ul {
+/* ul {
   text-align: center;
+} */
+
+.nav {
+  display: table;
 }
 
 ul#menu {
