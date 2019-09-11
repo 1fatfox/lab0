@@ -1,5 +1,10 @@
 
 
-h2 {
+h1 {
+    text-align: center;
     color: #addde6;
+}
+
+ul {
+  text-align: center;
 }
