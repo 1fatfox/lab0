@@ -9,8 +9,13 @@ ul {
   text-align: center;
 }
 
-#menu {
+ul#menu {
     background-color: #D8D8D8;
     color: white;
-    padding: 20px
+    padding: 20px;
+    list-style: none;
+}
+
+ul#menu li {
+  display: inline;
 }
