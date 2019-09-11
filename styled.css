@@ -8,10 +8,15 @@ table {
   color: #addde6;
 }
 
+button {
+    border-color: #addde6;
+    color: brown;
+}
+
 .nav {
   margin: auto;
   text-align: center;
-  float: inherit;
+  display: inline;
 }
 
 /* .navleft {
