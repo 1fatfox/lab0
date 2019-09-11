@@ -5,23 +5,27 @@ h1 {
     color: #addde6;
 }
 
+table {
+  color: #addde6;
+}
+
 /* ul {
   text-align: center;
 } */
 
-.nav {
-  /* margin: auto; */
+/* .nav {
+  margin: auto;
   text-align: center;
-  /* display: table; */
-}
+  display: table;
+} */
 
-ul#menu {
+/* ul#menu {
     background-color: #D8D8D8;
     color: white;
     padding: 20px;
     list-style: none;
-}
+} */
 
-ul#menu li {
+/* ul#menu li {
   display: inline;
-}
+} */
