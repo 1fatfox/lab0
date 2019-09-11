@@ -11,7 +11,8 @@ h1 {
 
 .nav {
   margin: auto;
-  /* display: table; */
+  text-align: center;
+  display: table;
 }
 
 ul#menu {
