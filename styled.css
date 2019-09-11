@@ -8,3 +8,9 @@ h1 {
 ul {
   text-align: center;
 }
+
+#menu {
+    background-color: #D8D8D8;
+    color: white;
+    padding: 20px
+}
