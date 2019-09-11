@@ -9,17 +9,17 @@ table {
   color: #addde6;
 }
 
-/* .nav {
-  margin: auto;
+.nav {
+  /* margin: auto; */
   text-align: center;
-  display: table;
-} */
+}
 
 .navleft {
   float:left;
 }
 
 .navcenter {
+  display: inline-block;
   float: center;
 }
 
