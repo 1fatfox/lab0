@@ -11,6 +11,7 @@ table {
 .nav {
   margin: auto;
   text-align: center;
+  float: inherit;
 }
 
 /* .navleft {
