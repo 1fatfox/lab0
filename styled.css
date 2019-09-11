@@ -10,7 +10,7 @@ h1 {
 } */
 
 .nav {
-  margin: auto;
+  /* margin: auto; */
   text-align: center;
   display: table;
 }
