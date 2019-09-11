@@ -1,6 +1,7 @@
 
 
 h1 {
+    padding-top: 40px;
     text-align: center;
     color: #addde6;
 }
@@ -10,7 +11,7 @@ table {
 }
 
 .nav {
-  /* margin: auto; */
+  margin: auto;
   text-align: center;
 }
 
@@ -19,7 +20,6 @@ table {
 }
 
 .navcenter {
-  display: inline-block;
   float: center;
 }
 
@@ -27,13 +27,14 @@ table {
   float: right;
 }
 
-/* ul#menu {
+ul#menu {
     background-color: #D8D8D8;
     color: white;
     padding: 20px;
     list-style: none;
+    display: inline;
 }
 
  ul#menu li {
   display: inline;
-} */
+}
