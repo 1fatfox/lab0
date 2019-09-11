@@ -1,5 +1,5 @@
 h1 {
-    padding-top: 40px;
+    padding-top: 100px;
     text-align: center;
     color: #addde6;
 }
@@ -17,6 +17,11 @@ button {
   margin: auto;
   text-align: center;
   display: inline;
+}
+
+.navel {
+  padding-left: 50px;
+  padding-right: 50px;
 }
 
 /* .navleft {
